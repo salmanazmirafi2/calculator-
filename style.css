@@ -1,0 +1,44 @@
+*{margin:0px;
+padding:0;}
+h1{text-align:center;}
+.nave{margin:auto;
+width:350px;
+text-align:center;
+margin-top:10px;
+box-shadow: 0 4px 8px 0 gray;
+font-size:0px;
+}
+
+.nalve:hover{box-shadow:0 15px 20px 0 black;}
+
+.hade input{
+width:320px;
+height:100px;
+font-size:20px;
+text-align:right;
+padding:10px;
+letter-spacing:1px;
+font-weight: bold;
+
+}
+.btn{width:87px;
+height:70px;
+font-weigth:bold;
+font-size:20px;
+background:black;
+color:White;
+}
+.btm{width:87px;
+height:70px;
+font-weight:bold;
+font-size:20px;
+background:blue;
+color:white;
+}
+.btp{width:87px;
+height:70px;
+font-weight:bold;
+font-size:20px;
+background:#ffb000ff;
+color:white;
+}
